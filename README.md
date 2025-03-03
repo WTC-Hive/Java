@@ -24,7 +24,10 @@ Welcome to the **Java Practice Repository**! 🎉 This repo is designed to help 
 🏆 Experienced Coders preparing for coding interviews  
 
 ## 🚀 Getting Started  
-1️⃣ Clone this repo:  
+1 Fork this repo by clicking "Fork"
+
+2 Clone this repo:  
    ```bash
-   git clone https://github.com/WTC-Hive/Java.git
-  ```
+   git clone https://github.com/YourUsername/Python.git
+   cd Python
+   ```
